@@ -1,0 +1,21 @@
+Consider that you have been hired by a Multiplex management organization to extract the information of 
+the top 50 movies with the best average rating from the web link shared below.
+
+
+https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films
+
+Practice One:
+The information required is Average Rank, Film, and Year.
+You are required to write a Python script webscraping_movies.py that extracts the information and saves 
+it to a CSV file top_50_films.csv. You are also required to save the same information to a database Movies.db 
+under the table name Top_50.
+
+
+Pratice Two:
+Modify the code to extract Film, Year, and Rotten Tomatoes' Top 100 headers.
+
+Restrict the results to only the top 25 entries.
+
+Filter the output to print only the films released in the 2000s (year 2000 included).
+
+Previous
